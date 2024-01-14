@@ -13,7 +13,7 @@ Comfortable working on both Mac and PC platforms.
 
 🗣  I'm bilingual in Spanish-French and have a B2-C1 level in English.
 
-👯  I'm currently collaborating with the Mongo Modeler app with @Lemoncode.
+👯  I'm currently collaborating with the Mongo Modeler app.
 
 📫  How to reach me: veronicacamarzana@gmail.com
 
