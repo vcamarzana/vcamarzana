@@ -8,7 +8,6 @@ __Expertise     *** :__ Photoshop, Illustrator, Flash.
 __Intermediate  **  :__ InDesign, Premier Pro, After Effects.  
 __Begginer      *   :__ Figma, JavaScript, TypeScript, HTML5, CSS3 & SCSS, Webpack & Vite, React.  
 __Others            :__ VS Code, Git & GitHub.  
-Comfortable working on both Mac and PC platforms.  
 
 🗣  I'm bilingual in Spanish-French and have a B2-C1 level in English.  
 👯  I'm currently collaborating with the Mongo Modeler app.  
