@@ -7,7 +7,7 @@ With a decade of experience at Artline Solutions, a design studio specialized in
 __Expertise&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*** &nbsp;:__ Photoshop, Illustrator, Flash.  
 __Intermediate&nbsp;&nbsp;&nbsp;**&nbsp;&nbsp;&nbsp;&nbsp;:__ InDesign, Premier Pro, After Effects.  
 __Begginer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:__ Figma, JavaScript, TypeScript, HTML5, CSS3 & SCSS, Webpack & Vite, React.  
-__Others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:__ VS Code, Git & GitHub.  
+__Others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:__ VS Code, Git & GitHub.  
 
 🗣  I'm bilingual in Spanish-French and have a B2-C1 level in English.  
 👯  I'm currently collaborating with the Mongo Modeler app.  
