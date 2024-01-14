@@ -12,4 +12,4 @@ __Others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🗣  I'm bilingual in Spanish-French and have a B2-C1 level in English.  
 👯  I'm currently collaborating with the Mongo Modeler app.  
 📫  How to reach me: veronicacamarzana@gmail.com  
-
+📖  Take a look at my book: https://tienda.babidibulibros.com/libro/a-quien-ama-la-princesa_139041/
