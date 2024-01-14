@@ -4,10 +4,14 @@ With a decade of experience at Artline Solutions, a design studio specialized in
 
 
 ### 💻 SKILLS:  
-Expertise     *** : Photoshop, Illustrator, Flash.  
-Intermediate  **  : InDesign, Premier Pro, After Effects.  
-Begginer      *   : Figma, JavaScript, TypeScript, HTML5, CSS3 & SCSS, Webpack & Vite, React.  
-Others            : VS Code, Git & GitHub.  
+Expertise     *** :  
+Photoshop, Illustrator, Flash.  
+Intermediate  **  :  
+InDesign, Premier Pro, After Effects.  
+Begginer      *   :  
+Figma, JavaScript, TypeScript, HTML5, CSS3 & SCSS, Webpack & Vite, React.  
+Others            :  
+VS Code, Git & GitHub.  
 Comfortable working on both Mac and PC platforms.  
 
 🗣  I'm bilingual in Spanish-French and have a B2-C1 level in English.  
