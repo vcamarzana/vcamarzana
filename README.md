@@ -3,7 +3,7 @@
 With a decade of experience at Artline Solutions, a design studio specialized in web and e-learning, I have worked on projects for major clients including Warner Bros. Consumer Products Spain, and completed graphic design and e-learning course layout jobs for BBVA, Carrefour, Telefónica, Vodafone, and others. I have also carried out tasks related to photo retouching and layout. Optimistic and curious, I have strong skills in communication, adaptability and analytical. Now freelancing, I authored, illustrated and published my own book.
 
 
-💻 SKILLS:
+# 💻 SKILLS:  
 Expertise     *** : Photoshop, Illustrator, Flash.
 Intermediate  **  : InDesign, Premier Pro, After Effects.
 Begginer      *   : Figma, JavaScript, TypeScript, HTML5, CSS3 & SCSS, Webpack & Vite, React.
