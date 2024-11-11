@@ -13,6 +13,6 @@ __Begginer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nb
 __Others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:__ VS Code, Git & GitHub.  
 
 🗣  I'm bilingual in Spanish-French and have a B2-C1 level in English.  
-👯  I'm currently collaborating with the Mongo Modeler app.  
+👯  I'm currently collaborating on the Mongo Modeler and Quick Mock apps. 
 📫  How to reach me: veronicacamarzana@gmail.com  
 📖  Take a look at my book: https://tienda.babidibulibros.com/libro/a-quien-ama-la-princesa_139041/
