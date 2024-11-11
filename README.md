@@ -1,6 +1,9 @@
 ## Hello, World!
 
-With a decade of experience at Artline Solutions, a design studio specialized in web and e-learning, I have worked on projects for major clients including Warner Bros. Consumer Products Spain, and completed graphic design and e-learning course layout jobs for BBVA, Carrefour, Telefónica, Vodafone, and others. I have also carried out tasks related to photo retouching and layout. Optimistic and curious, I have strong skills in communication, adaptability and analytical. Now freelancing, I authored, illustrated and published my own book.
+
+I am a Front-End Developer with experience in design and programming, bilingual in French and Spanish, with fluent English. Beyond the technical side, I am an organized person with a curiosity that led me to undertake my own projects, publish my own book independently, and work as a freelancer for several years.
+
+Currently, I collaborate on projects as a Front-End Developer, working with technologies like React, TypeScript, Vite, and Vitest. Academically, I hold advanced studies in Graphic and Multimedia Design, complemented by a programming bootcamp and a Master’s degree in Front-End Development.
 
 
 ### 💻 SKILLS:  
