@@ -6,15 +6,14 @@ Currently, I collaborate on projects as a Front-End Developer, utilizing technol
 
 ## 💻 Skills
 
-- **Development:**
-  - *Languages:* JavaScript, TypeScript, HTML5, CSS3, SCSS
-  - *Frameworks & Tools:* React, Webpack, Vite
-  - *Others:* VS Code, Git, GitHub
-    
-- **Design Tools:**
-  - *Expert:* Photoshop, Illustrator, Flash
-  - *Intermediate:* InDesign, Premiere Pro, After Effects
-  - *Beginner:* Figma
+  - *Languages:* JavaScript ES6, TypeScript, HTML5, CSS3.
+  - *Frameworks & Tools:* React, Angular, Vue.
+  - *Bundlers:* Webpack, Vite.
+  - *Testing:* Jest, Vitest.
+  - *APIs & Communication:* REST API, GraphQL.
+  - *Version Control & CI/CD:* Git, GitHub, GitHub Actions.
+  - *UX/UI & Accessibility:* Figma, Adobe Creative Suite, Web Accessibility, Responsive Design.
+  - *Others:* Docker, Visual Studio Code, Windows & macOS
 
 ## 🌐 Languages
 
@@ -32,12 +31,11 @@ Currently, I collaborate on projects as a Front-End Developer, utilizing technol
 - **Website:** [veronicacamarzana.is-a.dev](https://veronicacamarzana.is-a.dev/)
 - **Email:** veronicacamarzana@gmail.com
 - **LinkedIn:** [linkedin.com/in/veronicacamarzana](https://www.linkedin.com/in/veronicacamarzana)
-- **GitHub:** [github.com/vcamarzana](https://github.com/vcamarzana)
 - **Behance:** [behance.net/veronicacamarzana](https://www.behance.net/veronicacamarzana)
 
 ## 📖 Publications
 
-- **["A quién ama la princesa"](https://tienda.babidibulibros.com/libro/a-quien-ama-la-princesa_139041/):** Authored and self-published a children's book.
+- **"A quién ama la princesa":** Authored and independently published a children's book about self-esteem. [View Book.](https://tienda.babidibulibros.com/libro/a-quien-ama-la-princesa_139041/)
 
 ---
 
